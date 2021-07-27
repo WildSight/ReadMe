@@ -14,10 +14,7 @@
 We already have our server up an running, Will update this repo with the link for our APK soon.<br><br>
 
 <h2 > Screen Shots</h2>
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/HomeScreen.jpeg" width="200" height="400">
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/LocationSight.jpeg" width="200" height="400">
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/MyProfile.jpeg" width="200" height="400">
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/RatificationScreen.jpeg" width="200" height="400">
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/Search%20Grid.jpeg" width="200" height="400">
-<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/SpecieSearch.jpeg" width="200" height="400">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/HomeScreen.jpeg" width="200" height="400"><img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/LocationSight.jpeg" width="200" height="400">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/MyProfile.jpeg" width="200" height="400"><img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/RatificationScreen.jpeg" width="200" height="400">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/Search%20Grid.jpeg" width="200" height="400"><img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/SpecieSearch.jpeg" width="200" height="400">
 <img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/SpecieSight.jpeg" width="200" height="400">
