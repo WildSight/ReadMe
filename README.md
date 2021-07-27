@@ -11,4 +11,13 @@
 [backend_repo](https://github.com/WildSight/WildSight_Backend)<br>
 [frontend_repo](https://github.com/WildSight/WildSight_Frontend)
 
-We already have our server up an running, Will update this repo with the link for our APK soon.
+We already have our server up an running, Will update this repo with the link for our APK soon.<br><br>
+
+<h2 > Screen Shots</h2>
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/HomeScreen.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/LocationSight.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/MyProfile.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/RatificationScreen.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/Search%20Grid.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/SpecieSearch.jpeg">
+<img src="https://github.com/WildSight/ReadMe/blob/main/ScreenShots/SpecieSight.jpeg">
