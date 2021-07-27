@@ -8,8 +8,8 @@
 
 ### ✨ [Demo](https://drive.google.com/file/d/1py8u4GF_ogx8myTjexrU0sWynKW1tJ8q/view?usp=sharing)
 
-[backend_repo](https://github.com/WildSight/WildSight_Backend)<br>
-[frontend_repo](https://github.com/WildSight/WildSight_Frontend)
+[Backend Repository](https://github.com/WildSight/WildSight_Backend)<br>
+[Frontend Repository](https://github.com/WildSight/WildSight_Frontend)
 
 We already have our server up an running, Will update this repo with the link for our APK soon.<br><br>
 
